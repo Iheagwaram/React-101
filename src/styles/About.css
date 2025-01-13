@@ -1,0 +1,18 @@
+main{
+    background-color: whitesmoke;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h2{
+    text-decoration: underline;
+    color: rgb(22, 172, 172);
+}
+.Aboutp{
+    width: 500px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+}
